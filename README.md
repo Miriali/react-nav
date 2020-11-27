@@ -1,9 +1,19 @@
-# Getting Started with Create React App
+## React Navigation Menu  :computer: :open_file_folder:
+
+Hi everyone! :octocat:
+
+In this repository you can find a practice that I hope will be useful to improve your skills in Reactjs, it´s a navigation menu it is responsive and look very attractive, useful and functional. *Let's keep learning and improving together, happy coding.*  :nerd_face:
+
+### Screenshot: :camera_flash:
+
+![](https://instagram.fccs3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/127327690_1541319299398895_9146850942908719417_n.jpg?_nc_ht=instagram.fccs3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=EUYsouTtZ24AX-bhqVd&tp=1&oh=f4b6201a7462d16f973f6a65433daf8d&oe=5FEB9784&ig_cache_key=MjQ1MTcyMTMyMTExODY4MDU2OQ%3D%3D.2)
+
+# Getting Started with Create React App :computer:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+xxxxxx
 In the project directory, you can run:
 
 ### `yarn start`
@@ -39,32 +49,21 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Learn More :mag_right: 
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Built With :paintbrush:
+- [Visual Studio Code](https://www.sublimetext.com/)
+- [Flat UI Colors](https://flatuicolors.com/)
+- [UiGradients](https://uigradients.com/)
+- [Material Design Box Shadows](https://codepen.io/sdthornton/pen/wBZdXq)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Authors 
+[Miriali López Melean](https://github.com/Miriali) :woman_technologist:
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Stay In Touch
+- [Codepen](https://codepen.io/your-work/) 
+- [Twitter](https://twitter.com/miricailopez)
